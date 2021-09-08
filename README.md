@@ -8,5 +8,6 @@ One day I started learning software as an enthusiast, and for as long as I can r
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/Alquist.xy?tab=repositories) 
 
 <a href="https://github.com/Alquist-xy">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alquist-xyd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
+  <img src="https://github-readme-stats.vercel.app/api?
+username=Alquist-xyd&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=df761c&text_color=FFFFFF&icon_color=df761c">
 </a>
