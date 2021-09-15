@@ -7,5 +7,6 @@
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 </p>
 <hr>
+
 [![Alquist GitHub stats](https://github-readme-stats.vercel.app/api?username=Alquist-xy)](https://github.com/alquist-xy/github-readme-stats)
 
