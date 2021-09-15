@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/Age-19-blue" />
 <img src="https://komarev.com/ghpvc/?username=Alquist-xy&label=Profile%20Viewers&color=00c0ff" alt="Alquist-xy" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/Alquist.xy/)
