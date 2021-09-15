@@ -10,7 +10,8 @@ One day I started learning software as an enthusiast, and for as long as I can r
 
 ![Alquist GitHub stats](https://github-readme-stats.vercel.app/api?username=alquist-xy&show_icons=true)</p>
 [![Languages I use](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 <br><br><br><br><br>
 
+</p>
 <hr>
