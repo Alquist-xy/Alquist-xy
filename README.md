@@ -9,6 +9,3 @@ One day I started learning software as an enthusiast, and for as long as I can r
 <hr>
 
 ![Alquist GitHub stats](https://github-readme-stats.vercel.app/api?username=alquist-xy&show_icons=true)
-
-</p>
-<hr>
