@@ -11,5 +11,5 @@ One day I started learning software as an enthusiast, and for as long as I can r
 </p>
 <hr>
 <h3>My Accounts </h3> <p align="left"> <a href="https://discord.com/users/852608195338960916" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://open.spotify.com/playlist/0Wobz4OcyfjjrQUTUlsUdT?si=dcbab8a8e5d8447b" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a> <a href="https://instagram.com/alquist.xy" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://github.com/alquist-xy" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
-</p>
+
 <hr>
