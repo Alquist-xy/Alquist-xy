@@ -7,7 +7,7 @@
 One day I started learning software as an enthusiast, and for as long as I can remember, it's been going in a loop. I wish to find a job later as a discord bot developer or web developer. You can check some of my projects from my repositories.
 </p>
 <hr>
-width="30px"></h2> <img src="https://lanyard-profile-readme.vercel.app/api/852608195338960916?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px"
+</h2> <img src="https://lanyard-profile-readme.vercel.app/api/852608195338960916?theme=dark&animated=true&hideDiscrim=false&borderRadius=20px"
 </p>
 <hr>
 
