@@ -1,6 +1,6 @@
 ### Hi I'm Alquist , 
 
-<img src="https://komarev.com/ghpvc/?username=Alquist-xy&label=Profile%20Viewers&color=0083ff" alt="Alquist-xy" /> <img src="https://img.shields.io/badge/Age-18-blue" /> 
+<img src="https://komarev.com/ghpvc/?username=Alquist-xy&label=Profile%20Viewers&color=0083ff" alt="Alquist-xy" /> <img src="https://img.shields.io/badge/Age-17-blue" /> 
 <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-blue" />
 </p>
 <hr>
